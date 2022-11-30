@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **[My Personal Website](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **React Native.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mrlexcoder.com)**
